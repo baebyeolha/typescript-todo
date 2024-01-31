@@ -1,6 +1,5 @@
 import React from 'react'
 import TodoItem from './todo';
-import { Text } from './todo';
 import { ITodoitem } from './todo';
 
 type ITodoList = ITodoitem[];
